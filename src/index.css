@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Inter:wght@300;400;500;600&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", serif;
+  --font-sans: "Inter", sans-serif;
+  --color-romantic-bg: #fdfbfb;
+  --color-romantic-text: #2d2a2e;
+  --color-romantic-accent: #8b0000; /* Dark Maroon */
+}
